@@ -36,11 +36,12 @@ body {
 }
 
 body {
-  background-image: url('Matrix.gif');
-  background-size: width="1000px";
-  background-position: center center;
-  background-repeat: yes;
+  background-image: url('Matrix1.gif');
+  background-size: width="100px";
+  background-position: right center;
+  background-repeat: repeat-y;
 }
+
 
 p {
   background-color: black;
@@ -88,4 +89,8 @@ h4 {
   background-color: black;
   padding: 2px 5px;
   border-radius: 3px;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
 }
