@@ -42,55 +42,12 @@ body {
   background-repeat: repeat-y;
 }
 
-
-p {
-  background-color: black;
-  padding: 2px 5px;
-  border-radius: 3px;
-}
-
-ul {
-  background-color: black;
-  padding: 2px 5px;
-  border-radius: 3px;
-}
-
-h1 {
-  background-color: black;
-  padding: 2px 5px;
-  border-radius: 3px;
-}
-
-h3 {
-  background-color: black;
-  padding: 2px 5px;
-  border-radius: 3px;
-}
-
-img {
-  background-color: black;
-  padding: 2px 5px;
-  border-radius: 3px;
-}
-
-h3 {
-  background-color: black;
-  padding: 2px 5px;
-  border-radius: 3px;
-}
-
-h2 {
-  background-color: black;
-  padding: 2px 5px;
-  border-radius: 3px;
-}
-
-h4 {
-  background-color: black;
-  padding: 2px 5px;
-  border-radius: 3px;
-}
-
 body {
   font-family: 'Courier New', Courier, monospace;
+}
+
+.code {
+  background-color: black;
+  padding: 2px 5px;
+  border-radius: 3px;
 }
