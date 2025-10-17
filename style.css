@@ -26,3 +26,28 @@ html {
 }
 
 /* NEW CSS HERE */
+
+p {
+font-size: 20px;
+}
+body {
+  background-color:black;
+  color:rgb(12, 230, 12);
+}
+
+body {
+  background-image: url('Matrix1.gif');
+  background-size: width="100px";
+  background-position: right center;
+  background-repeat: repeat-y;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.code {
+  background-color: black;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
