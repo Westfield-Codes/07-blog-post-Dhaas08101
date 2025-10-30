@@ -56,6 +56,7 @@ body {
   font-family: 'Courier New', Courier, monospace;
   background-color:black;
   font-size: 15px;
+  color: rgb(255, 255, 255);
 }
 
 .card-body {
@@ -63,6 +64,9 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
-#top {
-  font-size:59px;
+.top {
+  background-color: black;
+  padding: 2px 5px;
+  border-radius: 3px;
+  Font-size: 59px;
 }
